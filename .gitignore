@@ -1,0 +1,23 @@
+# __pycache__ y archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual (si usas uno local)
+.venv/
+venv/
+env/
+
+# Configuración de PyCharm o VSCode (opcional pero recomendado)
+.idea/
+.vscode/
+
+# Archivos temporales comunes
+*.log
+*.tmp
+*.swp
+
+# Archivos de prueba o ejecución no deseados
+*.sqlite3
+*.db
+*.json
+*.csv
